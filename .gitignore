@@ -1,3 +1,7 @@
+# Custom defined files by developers
+output.txt
+.vscode/
+
 # Logs
 logs
 *.log
